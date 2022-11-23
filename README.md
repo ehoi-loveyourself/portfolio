@@ -56,7 +56,7 @@ COLLABORATION : Git | Notion
 
 <br>
 
-프로젝트 상세 설명 참고
+[프로젝트 상세 설명](https://github.com/ehoi-loveyourself/SSAFIT-FRONT) 참고
 
 ---
 
@@ -99,7 +99,7 @@ COLLABORATION : Git | Notion | JIRA
 
 <br>
 
-프로젝트 상세 설명 참고
+[프로젝트 상세 설명](https://github.com/ehoi-loveyourself/yourseasons) 참고
 
 ---
 
@@ -136,7 +136,7 @@ COLLABORATION : Git | Notion | JIRA
 
 <br>
 
-프로젝트 상세 설명 참고
+[프로젝트 상세 설명](https://github.com/ehoi-loveyourself/billow) 참고
 
 ---
 
@@ -171,4 +171,4 @@ COLLABORATION : Git | Notion | JIRA
 
 <br>
 
-프로젝트 상세 설명 참고
+[프로젝트 상세 설명](https://github.com/ehoi-loveyourself/chilisource) 참고
