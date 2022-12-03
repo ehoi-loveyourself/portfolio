@@ -23,6 +23,8 @@
 
 👩🏻‍💻 **Github** | [github.com/ehoi-loveyourself](https://github.com/ehoi-loveyourself)
 
+‍📜 **Resume** | [이력서](https://ehoiloveyourself.notion.site/dff16119fb464c1ea0ae7a4d2ec8d0e9)
+
 
 # 💻 Projects
 
