@@ -19,11 +19,11 @@
 
 ## Channel
 
-🏠 **Blog** | [velog.io/@ehoiloveyourself](https://velog.io/@ehoiloveyourself)
+🏠 **Blog** | [velog.io/@ehoiloveyourself](http://bit.ly/3un2UTY)
 
-👩🏻‍💻 **Github** | [github.com/ehoi-loveyourself](https://github.com/ehoi-loveyourself)
+👩🏻‍💻 **Github** | [github.com/ehoi-loveyourself](http://bit.ly/3VwoBNz)
 
-‍📜 **Resume** | [ehoiloveyourself.notion.site](https://ehoiloveyourself.notion.site/dff16119fb464c1ea0ae7a4d2ec8d0e9)
+‍📜 **Resume** | [ehoiloveyourself.notion.site](https://bit.ly/3F1MiWT)
 
 
 # 💻 Projects
@@ -46,11 +46,11 @@
 
 3. 프로젝트 성과 : 10팀 중 2등으로 우수상 수상
 
-[프로젝트 상세 설명](https://github.com/ehoi-loveyourself/chili-source) 참고
+[프로젝트 상세 설명](http://bit.ly/3HrwNdV) 참고
 
 ---
 
-## 2. Billow
+## 2. BILLOW
 
 > 데이터를 수집하여 사용자의 취향에 맞는 TV 프로그램 추천 서비스
 
@@ -67,7 +67,7 @@
 - CI/CD | AWS EC2, Jenkins, Docker, Nginx
 - FE | Vue.js, Vuex
 
-[프로젝트 상세 설명](https://github.com/ehoi-loveyourself/billow) 참고
+[프로젝트 상세 설명](http://bit.ly/3UvrtZI) 참고
 
 ---
 
@@ -90,7 +90,7 @@
 
 3. 프로젝트 성과 : 10팀 중 2등으로 우수상 수상
 
-[프로젝트 상세 설명](https://github.com/ehoi-loveyourself/yourseasons) 참고
+[프로젝트 상세 설명](http://bit.ly/3UuhGmv) 참고
 
 ---
 
@@ -111,4 +111,4 @@
 
 3. 프로젝트 성과 : 11팀 중 1등으로 최우수상 수상
 
-[프로젝트 상세 설명](https://github.com/ehoi-loveyourself/SSAFIT-FRONT) 참고
+[프로젝트 상세 설명](http://bit.ly/3XTLA6F) 참고
