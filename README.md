@@ -15,8 +15,6 @@
 
 💌 **Email** | ehoi.loveyourself@gmail.com
 
-📱 **Phone** | 010-6486-4928
-
 ## Channel
 
 🏠 **Blog** | [velog.io/@ehoiloveyourself](https://velog.io/@ehoiloveyourself)
